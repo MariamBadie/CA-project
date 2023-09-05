@@ -1,0 +1,4 @@
+MOVI R1 1
+EOR R1 0
+STR R1 62
+
